@@ -1,4 +1,4 @@
 # DevopsTraining
 devopsTraining 
 
-# please follow the instraction given by the trainer and foloow the steps 
+# please follow the instraction given by the trainer and foloow the steps you git right 
